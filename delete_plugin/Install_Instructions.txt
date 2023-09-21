@@ -1,0 +1,25 @@
+How to Download the Extension:
+
+Download the extension package from the source provided by the developer.
+
+Open Google Chrome.
+
+Click on the three dots in the upper-right corner of the browser to open the menu.
+
+Go to "Extensions" -> "Manage Extensions"
+
+Toggle the "Developer mode" switch located in the upper-right corner of the Extensions page to enable it.
+
+After enabling Developer Mode, you should see additional options appear.
+
+Click the "Load unpacked" button.
+
+A file dialog will open. Navigate to the directory where you downloaded and extracted the extension package.
+
+Select the folder containing the extension files and click "Select Folder" (or equivalent).
+
+Enjoy!!!
+
+
+
+Send me an email if anything is wrong, or you find any errors or just have questions: hello@nuclearflame.com 
